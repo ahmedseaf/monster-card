@@ -1,0 +1,10 @@
+.card-monster{
+    background-color: #fff;
+    box-shadow: 0 0 20px #3c3c3c;
+    border-radius: 10px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+.card-monster:hover{
+    transform: scale(1.03);
+}
